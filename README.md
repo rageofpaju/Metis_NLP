@@ -2,7 +2,7 @@
 
 **Comment on Deliverables**
 
-I just now realized that something got messed up with dill importing, and some of the results of the codes are replaced with errors. Also realized that pyLDAvis interactive plot is not retained in the notebook. Although I can't fix this before the deadline, I will nevertheless solve these issues just in case. I apologize for any inconvenience.
+I just now realized that something got messed up with dill importing, and some of the results of the codes are replaced with errors. Also realized that pyLDAvis interactive plot is not retained in the notebook. Although I can't fix this before the deadline, I will nevertheless solve these issues eventually. I apologize for any inconvenience.
 
 **Topic Modeling of Foods Recipes**
 
