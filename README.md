@@ -1,4 +1,6 @@
-# Metis_NLP: 
+# Metis_NLP 
+
+**Topic Modeling of Foods Recipes**
 
 (This is an abstracted from my writeup as a temporary description)
 
